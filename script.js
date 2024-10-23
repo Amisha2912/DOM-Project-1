@@ -1,9 +1,8 @@
   // Get the div element by ID
-  var div = document.getElementById("targetDiv");
-        
+  const div = document.getElementById("targetDiv");    
   // Change background color of fetched div
   div.style.backgroundColor = "yellow";
-  
+  div.style.color="blue";
   // Add margin
   div.style.margin = "20px";
   
