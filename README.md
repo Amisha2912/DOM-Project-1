@@ -21,7 +21,7 @@ To view the live version of this project, follow these steps:
 
 1. **Click on the link below** to access the hosted version of the project in your web browser:
 
-   [Live Version of the Project](https://your-hosted-link.com)
+   [Live Version of the Project](https://amisha2912.github.io/DOM-Project-1/)
 
 2. The project will open directly in your browser, and you can see the full functionality of the DOM manipulation.
 
